@@ -1,0 +1,43 @@
+// Version 4.1 for Arendelle 9.3
+
+// Copyright 2014 Pouya Kary
+// this sketph is a pretty birdy
+// as the Arendelle's logo
+// arendelle.org / 
+
+// Title
+   'Birdy'
+
+// First Spacings 
+   // It's good to know that
+   // this is really the first
+   // script to use the
+   // responsitive spacings /
+   [ #i / 2 , r ] [ #j / 2 , d ] [ 4 , u ] [ 8 , l ]
+
+// Line #1
+   r [ 6 , rp ]
+
+// Line #2 
+   dp lp [ 2 , l ] [ 4 , lp ]
+
+// Line #3
+   d r [ 6 , rp ]
+
+// Line #4
+   d [ 3, r ] [ 8 , lp ]
+
+// Line #5
+   d l [ 14 , rp ]
+
+// Line #6
+   d l [ 12 , lp ]
+
+// Line #7
+   d p [ 7 , rp ]
+
+// Line #8
+   d [ 3 , l ] [ 2 , lp ]
+
+
+
