@@ -12,7 +12,8 @@ To learn more about guide lines of using Arendelle's logo please visit [Arendell
 ### License
 ```
 Chess Knight's Path Optimizer
-Copyright (C) 2014 Pouya Kary <k@arendelle.org>
+   Copyright (c) 2015 Kary Foundation, Inc.
+   Author: Pouya Kary <k@arendelle.org>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
